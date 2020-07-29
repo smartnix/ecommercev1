@@ -1,0 +1,54 @@
+{
+    "products":
+    [
+        {
+            "_id":"dress1",
+            "title":"Buzo Kangaroo ",
+            "image":"/images/dress1.jpg",
+            "description":"About dress 1",
+            "price":19,
+            "availableSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress2",
+            "title":"Buzo Tejido Men",
+            "image":"/images/dress2.jpg",
+            "description":"About dress 2",
+            "price":199,
+            "availableSizes":["M","S","XL"]
+        },
+        {
+            "_id":"dress3",
+            "title":"Buzo Men Sailor",
+            "image":"/images/dress3.jpg",
+            "description":"About dress 3",
+            "price":150,
+            "availableSizes":["M","S"]
+        },
+        {
+            "_id":"dress4",
+            "title":"Buzo Men ",
+            "image":"/images/dress4.jpg",
+            "description":"About dress 4",
+            "price":114,
+            "availableSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress5",
+            "title":"Buzo Men Moline",
+            "image":"/images/dress5.jpg",
+            "description":"About dress 5",
+            "price":58,
+            "availableSizes":["M","S","XL"]
+        },
+        {
+            "_id":"dress6",
+            "title":"Buzo Men Texture 6",
+            "image":"/images/dress6.jpg",
+            "description":"About dress 6",
+            "price":69,
+            "availableSizes":["M","S"]
+        }
+    ]
+    
+}
