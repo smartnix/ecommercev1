@@ -47,7 +47,7 @@
             "image":"/images/dress6.jpg",
             "description":"About dress 6",
             "price":69,
-            "availableSizes":["M","S"]
+            "availableSizes":["M","L"]
         }
     ]
     
