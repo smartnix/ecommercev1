@@ -6,6 +6,7 @@ const shortid = require("shortid");
 const app = express();
 app.use(bodyParser.json());
 
+
 mongoose.connect("mongodb://localhost/react-shopping-car-db",{
     userNewUrlParser: true,
     useCreateIndex:true,
